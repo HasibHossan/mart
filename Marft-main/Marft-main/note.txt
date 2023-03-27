@@ -1,0 +1,7 @@
+font-family:'Darker Grotesque', sans-serif; 
+
+
+
+
+gold color          #F6D88C
+light gold color    #F8F3EC

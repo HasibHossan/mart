@@ -1,0 +1,269 @@
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .text{
+        text-align: center;
+    }
+    .c-h1 {
+        font-size: 48px;
+        line-height: 46px;
+        margin-top: 30px;
+    }
+    .c-p {
+        font-size: 20px;
+        margin-top: 15px;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .c-btn {
+    
+        margin-top: 5px;
+    }
+    /* clints str */
+    .client {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    .two_text {
+        text-align: center;
+    }
+    .logos{
+    margin-top: 25px;
+    }
+    .custom-btn {
+        width: 160px;
+        height: 60px;
+    }
+    /* clints end */
+    .about{
+        height: auto;
+        padding: 50px 0px;
+    }
+
+
+  
+}
+
+/*  Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* banner str */
+    .text{
+        text-align: center;
+    }
+    .c-h1 {
+        font-size: 48px;
+        line-height: 46px;
+        margin-top: 30px;
+    }
+    .c-p {
+        font-size: 20px;
+        margin-top: 15px;
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .c-btn {
+    
+        margin-top: 5px;
+    }
+    /* clints str */
+    .client {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    .two_text {
+        text-align: center;
+    }
+    .logos{
+    margin-top: 25px;
+    }
+    .custom-btn {
+        width: 160px;
+        height: 60px;
+    }
+    /* clints end */
+    .about{
+        height: auto;
+        padding: 50px 0px;
+    }
+
+  
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* banner str */
+    .c-h1 {
+        font-size: 50px;
+        line-height: 40px;
+    }
+    .c-p {
+        font-size: 20px;
+        padding-right: 0;
+    }
+    .c-btn {
+        font-size: 20px;
+        height: 40px;
+        width: 105px;
+        margin-top: 0;
+    }
+    .img{
+        height: 435px;
+        padding-right: 10px;
+    }
+    /* banner end */
+    /* clints str */
+    .client {
+        margin-top: 70px;
+        margin-bottom: 100px;
+    }
+    .a-h1 {
+        font-size: 28px;
+        font-weight: 600;
+        line-height: 30px;
+        color: white;
+    }
+    .a-p {
+        padding: 0px;
+    }
+    .r-text {
+        margin: 10px 0;
+        
+    }
+    .h-1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    .p1 {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .custom-btn {
+        width: 125px;
+        height: 60px;
+    }
+    /* clints end */
+    /* about str */
+    
+    /* about end */
+  
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* banner str */
+    .c-h1 {
+        font-size: 60px;
+        line-height: 50px;
+    }
+    .c-p {
+        font-size: 22px;
+        padding-right: 130px;
+    }
+    .c-btn {
+        font-size: 25px;
+        height: 45px;
+        width: 135px;
+        margin-top: 0;
+    }
+    .img{
+        height: 575px;
+        padding-right: 10px;
+    }
+    /* banner end */
+    /* clints str */
+    .client {
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+    .line {
+        height: 110px;
+    }
+    .h-1 {
+        font-size: 24px;
+        line-height: 24px;
+    }
+    .p1 {
+        font-size: 18px;
+    }
+    .custom-btn {
+        width: 160px;
+        height: 50px;
+    }
+    /* clints end */
+    /* about str */
+    .about{
+        height: 700px;
+    }
+    .l-img {
+        margin: 17px -70px;
+    }
+    .a-text {
+        padding-left: 60px;
+    }
+    .a-h1 {
+        font-size: 60px;
+        line-height: 50px;
+    }
+    .a-p {
+        font-size: 16px;
+        padding-right: 40px;
+    }
+    .c-btn {
+        margin-top: 20px;
+    }
+    /* about end */
+}
+
+ /* Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* banner str */
+    .c-h1 {
+        font-size: 70px;
+        line-height: 60px;
+    }
+    .c-p {
+        font-size: 20px;
+    }
+    .c-btn {
+        font-size: 20px;
+        height: 40px;
+        width: 120px;
+        margin-top: 0px;
+    }
+    .img{
+        height: 700px;
+    }
+    /* banner end */
+    /* clints str */
+    .client{
+        margin-bottom: 120px;
+      }
+    .line {
+        height: 175px;
+    }
+    .h-1 {
+        font-size: 37px;
+    }
+    .logos{
+        margin-top: 20px;
+    }
+        
+    /* clints end */
+    /* about str */
+    .a-text {
+        padding-left: 60px;
+    }
+    .c-btn {
+        margin-top: 20px;
+    }
+    /* about end */
+
+  
+}
+
+/*  Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  
+}
